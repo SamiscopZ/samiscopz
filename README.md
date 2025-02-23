@@ -1,4 +1,4 @@
-![LinkedIn Banner]([https://media.licdn.com/dms/image/v2/D5616AQHXOonsJBBF4g/profile-displaybackgroundimage-shrink_350_1400/B56ZUpLo2iGUAY-/0/1740152673046?e=1745452800&v=beta&t=W7oLuOXfkXPB3Vf_9fKM05-liHXmez6uPGhYnqtfKYo](https://media.licdn.com/dms/image/v2/D5616AQFHOC77sCOKOw/profile-displaybackgroundimage-shrink_350_1400/B56ZUy8LuPHEAc-/0/1740316394148?e=1746057600&v=beta&t=9KWu4eQRfoYad8bYzyunKjjokf2fkKBxt3BJRktIcxI))
+![Banner Image](https://media.licdn.com/dms/image/v2/D5616AQFHOC77sCOKOw/profile-displaybackgroundimage-shrink_350_1400/B56ZUy8LuPHEAc-/0/1740316394148?e=1746057600&v=beta&t=9KWu4eQRfoYad8bYzyunKjjokf2fkKBxt3BJRktIcxI)
 
 <h1 align="center">Hi 👋, I'm Md. Samiul I</h1>
 <h3 align="center">A passionate frontend developer</h3>
