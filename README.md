@@ -1,6 +1,7 @@
+<h1 align="center">Hi 👋, I'm Md. Samiul I</h1>
+
 ![Banner Image](https://media.licdn.com/dms/image/v2/D5616AQFHOC77sCOKOw/profile-displaybackgroundimage-shrink_350_1400/B56ZUy8LuPHEAc-/0/1740316394148?e=1746057600&v=beta&t=9KWu4eQRfoYad8bYzyunKjjokf2fkKBxt3BJRktIcxI)
 
-<h1 align="center">Hi 👋, I'm Md. Samiul I</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiulisslam&label=Profile%20views&color=0e75b6&style=flat" alt="samiulisslam" /> </p>
