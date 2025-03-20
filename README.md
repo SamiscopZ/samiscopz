@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiulisslam&label=Profile%20views&color=0e75b6&style=flat" alt="samiulisslam" /> </p>
 
-- 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [samiulisslam.com](samiulisslam.com)
+
+- 👨‍💻 All of my projects are available at [samiulisslam.com](https://samiulisslam.com/)
 
 - 💬 Ask me about **Web Development**
 
